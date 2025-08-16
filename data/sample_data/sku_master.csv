@@ -1,0 +1,6 @@
+sku_id,category,subcategory,lead_time_default
+SKU001,Electronics,Smartphones,14
+SKU002,Electronics,Laptops,21
+SKU003,Fashion,Shoes,10
+SKU004,Fashion,Jackets,7
+SKU005,Home,Kettles,5

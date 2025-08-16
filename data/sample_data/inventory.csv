@@ -1,0 +1,6 @@
+sku_id,warehouse_id,current_stock,reserved_stock,unit_cost,unit_price
+SKU001,WH1,120,10,450,600
+SKU002,WH1,80,5,800,1200
+SKU003,WH2,200,20,40,60
+SKU004,WH2,50,0,70,100
+SKU005,WH3,300,15,25,40

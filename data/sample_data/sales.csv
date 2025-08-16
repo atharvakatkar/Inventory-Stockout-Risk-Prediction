@@ -1,0 +1,6 @@
+order_date,sku_id,quantity_sold,unit_price,warehouse_id,promotion_flag
+2025-07-01,SKU001,2,600,WH1,True
+2025-07-01,SKU002,1,1200,WH1,False
+2025-07-02,SKU003,5,60,WH2,False
+2025-07-02,SKU004,3,100,WH2,True
+2025-07-03,SKU005,10,40,WH3,False

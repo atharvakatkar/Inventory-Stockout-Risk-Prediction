@@ -1,0 +1,4 @@
+supplier_id,supplier_name,lead_time_days_override
+SUP001,TechSource,12.0
+SUP002,FashionHub,
+SUP003,HomeDirect,8.0
