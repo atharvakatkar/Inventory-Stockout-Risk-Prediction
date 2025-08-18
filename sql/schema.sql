@@ -45,3 +45,9 @@ category VARCHAR(50),
 subcategory VARCHAR(50),
 lead_time_default INTEGER
 );
+
+create table supplier_sku_map(
+sku_id varchar(20) not null,
+supplier_id varchar(10) not null,
+primary key (sku_id, supplier_id)
+);
