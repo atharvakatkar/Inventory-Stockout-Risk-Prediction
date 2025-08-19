@@ -1,0 +1,114 @@
+2025-08-19 16:25:27.927 - DBeaver 25.1.3.202507201434 is starting
+2025-08-19 16:25:27.928 - OS: Windows 11 10.0 (amd64)
+2025-08-19 16:25:27.928 - Java version: 21.0.5 by Eclipse Adoptium (64bit)
+2025-08-19 16:25:27.928 - Install path: 'C:\Program Files\WindowsApps\DBeaverCorp.DBeaverCE_25.1.3.0_x64__1b7tdvn0p0f9y'
+2025-08-19 16:25:27.928 - Instance path: 'file:/C:/Users/athar/MyCodes/Private/GitHub/Inventory-Stockout-Risk-Prediction/sql/'
+2025-08-19 16:25:27.936 - Memory available 64Mb/1024Mb
+2025-08-19 16:25:27.955 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.22.600.v20250523-1502]
+2025-08-19 16:25:28.294 - Initialize desktop platform...
+2025-08-19 16:25:28.558 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.200.v20250513-1234]
+> Start Core Resource Management [org.eclipse.core.resources 3.22.200.v20250513-1234]
+> Start Team Support Core [org.eclipse.team.core 3.10.700.v20250313-0656]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.159.202507201434]
+2025-08-19 16:25:28.944 - Initialize base platform...
+> Start DBeaver Windows Store extension [org.jkiss.dbeaver.ui.app.winstore 1.0.84.202507201434]
+2025-08-19 16:25:29.005 - Platform initialized (711ms)
+2025-08-19 16:25:29.006 - Resetting workbench due to the version change (null -> 25.1.2)
+2025-08-19 16:25:29.072 - Starting instance server at http://localhost:56954
+2025-08-19 16:25:29.074 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.800.v20250422-1254]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.200.v20250326-1945]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.500.v20250123-0754]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.800.v20250422-1254]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.600.v20250331-1050]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.600.v20250307-1331]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.39.0.v20250414-1351]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.500.v20250213-1508]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.700.v20250422-1254]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.800.v20250519-1609]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.600.v20250409-1135]
+> Start Default Text Editor [org.eclipse.ui.editors 3.20.0.v20250514-1719]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.19.200.v20250514-1719]
+2025-08-19 16:25:31.977 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.149.202507201434]
+2025-08-19 16:25:32.319 - Total database drivers: 124 (124)
+> Start Help System Core [org.eclipse.help 3.10.500.v20250423-1201]
+2025-08-19 16:25:32.502 - Create actions
+2025-08-19 16:25:32.534 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-08-19 16:25:32.535 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-08-19 16:25:32.536 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-08-19 16:25:32.536 - Create workbench actions
+2025-08-19 16:25:35.525 - Initialize workbench window
+2025-08-19 16:25:35.530 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.159.202507201434]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.600.v20250521-0413]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.700.v20250313-0656]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.159.202507201434]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.156.202507201434]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.20.0.202505280821]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.22.0.202505280821]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.0.202507201434]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.0.202507201434]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.196.202507201434]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.52.202507201434]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.232.202507201434]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.135.202507201434]
+2025-08-19 16:27:00.315 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2025-08-19 16:27:00.441 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2025-08-19 16:27:28.758 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.pom]
+2025-08-19 16:27:30.179 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom]
+2025-08-19 16:27:30.399 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.pom]
+2025-08-19 16:27:30.587 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-java-aggregator/2.5.0/postgis-java-aggregator-2.5.0.pom]
+2025-08-19 16:27:30.847 - Open [https://repo1.maven.org/maven2/org/testcontainers/testcontainers-bom/1.13.0/testcontainers-bom-1.13.0.pom]
+2025-08-19 16:27:31.064 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.pom]
+2025-08-19 16:27:31.271 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.pom]
+2025-08-19 16:27:31.488 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-parent/1.9.1/waffle-parent-1.9.1.pom]
+2025-08-19 16:27:31.858 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom]
+2025-08-19 16:27:32.086 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.pom]
+2025-08-19 16:27:32.292 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom]
+2025-08-19 16:27:32.505 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom]
+2025-08-19 16:27:32.720 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom]
+2025-08-19 16:27:32.928 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.pom]
+2025-08-19 16:27:38.337 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.jar]
+2025-08-19 16:27:39.680 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar]
+2025-08-19 16:27:39.924 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.jar]
+2025-08-19 16:27:40.377 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.jar]
+2025-08-19 16:27:40.832 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.jar]
+2025-08-19 16:27:41.042 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar]
+2025-08-19 16:27:41.693 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar]
+2025-08-19 16:27:42.581 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar]
+2025-08-19 16:27:42.894 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar]
+2025-08-19 16:27:43.341 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.jar]
+2025-08-19 16:27:44.015 - Connect with 'inventory_stockout' (postgres-jdbc-198c102e1d6-70f7cd9a715a44c8)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.183.202507201434]
+2025-08-19 16:27:45.267 - Execution context opened (inventory_stockout; Main <inventory_stockout>; 0)
+2025-08-19 16:27:45.268 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
+2025-08-19 16:27:45.508 - Connected (postgres-jdbc-198c102e1d6-70f7cd9a715a44c8, PostgreSQL JDBC Driver [42.7.2])
+2025-08-19 16:27:45.528 - Execution context closed (inventory_stockout, 0)
+2025-08-19 16:27:45.529 - Disconnected (postgres-jdbc-198c102e1d6-70f7cd9a715a44c8)
+2025-08-19 16:27:49.376 - Connect with 'inventory_stockout' (postgres-jdbc-198c10333b6-447bf83aa9af0344)
+2025-08-19 16:27:49.454 - Execution context opened (inventory_stockout; Main <inventory_stockout>; 1)
+2025-08-19 16:27:49.454 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
+2025-08-19 16:27:49.572 - Connected (postgres-jdbc-198c10333b6-447bf83aa9af0344, PostgreSQL JDBC Driver [42.7.2])
+2025-08-19 16:27:49.584 - Execution context closed (inventory_stockout, 1)
+2025-08-19 16:27:49.584 - Disconnected (postgres-jdbc-198c10333b6-447bf83aa9af0344)
+2025-08-19 16:27:52.957 - Connect with 'inventory_stockout' (postgres-jdbc-198c1027405-59035f8438ba5191)
+2025-08-19 16:27:53.141 - Execution context opened (inventory_stockout; Main <inventory_stockout>; 2)
+2025-08-19 16:27:53.142 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
+2025-08-19 16:27:53.207 - Execution context opened (inventory_stockout; Metadata <inventory_stockout>; 3)
+2025-08-19 16:27:53.208 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Metadata <inventory_stockout>
+2025-08-19 16:27:53.304 - Connected (postgres-jdbc-198c1027405-59035f8438ba5191, PostgreSQL JDBC Driver [42.7.2])
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.135.202507201434]
+> Start DBeaver AI Model [org.jkiss.dbeaver.model.ai 2.0.2.202507201434]
+> Start DBeaver SQL Editors - AI integration [org.jkiss.dbeaver.ui.ai 1.0.61.202507201434]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.700.v20250120-0641]
+> Start Console [org.eclipse.ui.console 3.14.300.v20250509-1251]
+> Start Debug Core [org.eclipse.debug.core 3.23.0.v20250509-1924]
+2025-08-19 16:28:40.928 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 4)
+2025-08-19 16:28:40.929 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.137.202507201434]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.137.202507201434]

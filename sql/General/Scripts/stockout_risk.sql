@@ -8,7 +8,7 @@ as_of as (
 select
 	coalesce(max(order_date), current_date) as as_of_date
 from
-	sales 
+	sales
 ),
 date_spine as (
 select

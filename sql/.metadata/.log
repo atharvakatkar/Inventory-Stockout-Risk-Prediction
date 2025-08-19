@@ -1,0 +1,12 @@
+!SESSION 2025-08-19 16:25:25.413 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql
+
+!ENTRY org.eclipse.ui 2 2 2025-08-19 16:25:35.842
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
+
+!ENTRY org.eclipse.ui 4 4 2025-08-19 16:28:39.095
+!MESSAGE Unable to create menu item "null", command "com.dbeaver.ai.sql.suggestion" not defined
