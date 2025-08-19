@@ -1,0 +1,12 @@
+-- Total SKUs × warehouses in the view
+SELECT COUNT(*) FROM v_stockout_risk;
+
+-- How many SKUs are flagged at risk
+SELECT SUM(CASE WHEN at_risk_flag THEN 1 ELSE 0 END) AS at_risk_count
+FROM v_stockout_risk;
+
+-- Top 10 SKUs by revenue at risk
+SELECT *
+FROM v_stockout_risk
+ORDER BY at_risk_flag DESC, revenue_at_risk_estimate DESC NULLS LAST
+LIMIT 10;

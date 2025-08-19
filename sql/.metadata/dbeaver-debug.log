@@ -1,23 +1,21 @@
-2025-08-19 16:25:27.927 - DBeaver 25.1.3.202507201434 is starting
-2025-08-19 16:25:27.928 - OS: Windows 11 10.0 (amd64)
-2025-08-19 16:25:27.928 - Java version: 21.0.5 by Eclipse Adoptium (64bit)
-2025-08-19 16:25:27.928 - Install path: 'C:\Program Files\WindowsApps\DBeaverCorp.DBeaverCE_25.1.3.0_x64__1b7tdvn0p0f9y'
-2025-08-19 16:25:27.928 - Instance path: 'file:/C:/Users/athar/MyCodes/Private/GitHub/Inventory-Stockout-Risk-Prediction/sql/'
-2025-08-19 16:25:27.936 - Memory available 64Mb/1024Mb
-2025-08-19 16:25:27.955 - Create display
-> Start Eclipse IDE UI [org.eclipse.ui.ide 3.22.600.v20250523-1502]
-2025-08-19 16:25:28.294 - Initialize desktop platform...
-2025-08-19 16:25:28.558 - BounceCastle bundle found. Use JCE provider BC
+2025-08-19 17:36:00.701 - DBeaver 25.1.3.202507201434 is starting
+2025-08-19 17:36:00.703 - OS: Windows 11 10.0 (amd64)
+2025-08-19 17:36:00.704 - Java version: 21.0.5 by Eclipse Adoptium (64bit)
+2025-08-19 17:36:00.705 - Install path: 'C:\Program Files\WindowsApps\DBeaverCorp.DBeaverCE_25.1.3.0_x64__1b7tdvn0p0f9y'
+2025-08-19 17:36:00.705 - Instance path: 'file:/C:/Users/athar/MyCodes/Private/GitHub/Inventory-Stockout-Risk-Prediction/sql/'
+2025-08-19 17:36:00.710 - Memory available 64Mb/1024Mb
+2025-08-19 17:36:00.749 - Create display
+2025-08-19 17:36:01.266 - Initialize desktop platform...
+2025-08-19 17:36:01.567 - BounceCastle bundle found. Use JCE provider BC
 > Start Core File Systems [org.eclipse.core.filesystem 1.11.200.v20250513-1234]
 > Start Core Resource Management [org.eclipse.core.resources 3.22.200.v20250513-1234]
 > Start Team Support Core [org.eclipse.team.core 3.10.700.v20250313-0656]
 > Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.159.202507201434]
-2025-08-19 16:25:28.944 - Initialize base platform...
+2025-08-19 17:36:01.978 - Initialize base platform...
 > Start DBeaver Windows Store extension [org.jkiss.dbeaver.ui.app.winstore 1.0.84.202507201434]
-2025-08-19 16:25:29.005 - Platform initialized (711ms)
-2025-08-19 16:25:29.006 - Resetting workbench due to the version change (null -> 25.1.2)
-2025-08-19 16:25:29.072 - Starting instance server at http://localhost:56954
-2025-08-19 16:25:29.074 - Run workbench
+2025-08-19 17:36:02.099 - Platform initialized (833ms)
+2025-08-19 17:36:02.239 - Starting instance server at http://localhost:51928
+2025-08-19 17:36:02.257 - Run workbench
 > Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.800.v20250422-1254]
 > Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.200.v20250326-1945]
 > Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.500.v20250123-0754]
@@ -32,83 +30,480 @@
 > Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.600.v20250409-1135]
 > Start Default Text Editor [org.eclipse.ui.editors 3.20.0.v20250514-1719]
 > Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.19.200.v20250514-1719]
-2025-08-19 16:25:31.977 - Configure workbench window
+2025-08-19 17:36:06.566 - Configure workbench window
 > Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.149.202507201434]
-2025-08-19 16:25:32.319 - Total database drivers: 124 (124)
+2025-08-19 17:36:06.897 - Total database drivers: 124 (124)
 > Start Help System Core [org.eclipse.help 3.10.500.v20250423-1201]
-2025-08-19 16:25:32.502 - Create actions
-2025-08-19 16:25:32.534 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
-2025-08-19 16:25:32.535 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
-2025-08-19 16:25:32.536 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
-2025-08-19 16:25:32.536 - Create workbench actions
-2025-08-19 16:25:35.525 - Initialize workbench window
-2025-08-19 16:25:35.530 - Finish initialization
+2025-08-19 17:36:07.033 - Create actions
+2025-08-19 17:36:07.049 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-08-19 17:36:07.050 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-08-19 17:36:07.051 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-08-19 17:36:07.052 - Create workbench actions
+2025-08-19 17:36:08.489 - Initialize workbench window
+2025-08-19 17:36:08.509 - Finish initialization
 > Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.159.202507201434]
 > Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.600.v20250521-0413]
 > Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
 > Start Internet Connection Management [org.eclipse.core.net 1.5.700.v20250313-0656]
 > Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.159.202507201434]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.196.202507201434]
 > Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.156.202507201434]
 > Start GEF Classic Draw2d [org.eclipse.draw2d 3.20.0.202505280821]
 > Start GEF Classic GEF (MVC) [org.eclipse.gef 3.22.0.202505280821]
 > Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.0.202507201434]
 > Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.0.202507201434]
-> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.196.202507201434]
+2025-08-19 17:36:13.402 - Connect with 'inventory_stockout' (postgres-jdbc-198c1027405-59035f8438ba5191)
 > Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.52.202507201434]
 > Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.232.202507201434]
-> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.135.202507201434]
-2025-08-19 16:27:00.315 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
-2025-08-19 16:27:00.441 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
-2025-08-19 16:27:28.758 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.pom]
-2025-08-19 16:27:30.179 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom]
-2025-08-19 16:27:30.399 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.pom]
-2025-08-19 16:27:30.587 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-java-aggregator/2.5.0/postgis-java-aggregator-2.5.0.pom]
-2025-08-19 16:27:30.847 - Open [https://repo1.maven.org/maven2/org/testcontainers/testcontainers-bom/1.13.0/testcontainers-bom-1.13.0.pom]
-2025-08-19 16:27:31.064 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.pom]
-2025-08-19 16:27:31.271 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.pom]
-2025-08-19 16:27:31.488 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-parent/1.9.1/waffle-parent-1.9.1.pom]
-2025-08-19 16:27:31.858 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom]
-2025-08-19 16:27:32.086 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.pom]
-2025-08-19 16:27:32.292 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom]
-2025-08-19 16:27:32.505 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom]
-2025-08-19 16:27:32.720 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom]
-2025-08-19 16:27:32.928 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.pom]
-2025-08-19 16:27:38.337 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.jar]
-2025-08-19 16:27:39.680 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar]
-2025-08-19 16:27:39.924 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.jar]
-2025-08-19 16:27:40.377 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.jar]
-2025-08-19 16:27:40.832 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.jar]
-2025-08-19 16:27:41.042 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar]
-2025-08-19 16:27:41.693 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar]
-2025-08-19 16:27:42.581 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar]
-2025-08-19 16:27:42.894 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar]
-2025-08-19 16:27:43.341 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.jar]
-2025-08-19 16:27:44.015 - Connect with 'inventory_stockout' (postgres-jdbc-198c102e1d6-70f7cd9a715a44c8)
 > Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.183.202507201434]
-2025-08-19 16:27:45.267 - Execution context opened (inventory_stockout; Main <inventory_stockout>; 0)
-2025-08-19 16:27:45.268 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
-2025-08-19 16:27:45.508 - Connected (postgres-jdbc-198c102e1d6-70f7cd9a715a44c8, PostgreSQL JDBC Driver [42.7.2])
-2025-08-19 16:27:45.528 - Execution context closed (inventory_stockout, 0)
-2025-08-19 16:27:45.529 - Disconnected (postgres-jdbc-198c102e1d6-70f7cd9a715a44c8)
-2025-08-19 16:27:49.376 - Connect with 'inventory_stockout' (postgres-jdbc-198c10333b6-447bf83aa9af0344)
-2025-08-19 16:27:49.454 - Execution context opened (inventory_stockout; Main <inventory_stockout>; 1)
-2025-08-19 16:27:49.454 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
-2025-08-19 16:27:49.572 - Connected (postgres-jdbc-198c10333b6-447bf83aa9af0344, PostgreSQL JDBC Driver [42.7.2])
-2025-08-19 16:27:49.584 - Execution context closed (inventory_stockout, 1)
-2025-08-19 16:27:49.584 - Disconnected (postgres-jdbc-198c10333b6-447bf83aa9af0344)
-2025-08-19 16:27:52.957 - Connect with 'inventory_stockout' (postgres-jdbc-198c1027405-59035f8438ba5191)
-2025-08-19 16:27:53.141 - Execution context opened (inventory_stockout; Main <inventory_stockout>; 2)
-2025-08-19 16:27:53.142 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
-2025-08-19 16:27:53.207 - Execution context opened (inventory_stockout; Metadata <inventory_stockout>; 3)
-2025-08-19 16:27:53.208 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Metadata <inventory_stockout>
-2025-08-19 16:27:53.304 - Connected (postgres-jdbc-198c1027405-59035f8438ba5191, PostgreSQL JDBC Driver [42.7.2])
+2025-08-19 17:36:13.839 - Execution context opened (inventory_stockout; Main <inventory_stockout>; 0)
+2025-08-19 17:36:13.839 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
+2025-08-19 17:36:13.987 - Execution context opened (inventory_stockout; Metadata <inventory_stockout>; 1)
+2025-08-19 17:36:13.988 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Metadata <inventory_stockout>
+2025-08-19 17:36:14.149 - Connected (postgres-jdbc-198c1027405-59035f8438ba5191, PostgreSQL JDBC Driver [42.7.2])
 > Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.135.202507201434]
 > Start DBeaver AI Model [org.jkiss.dbeaver.model.ai 2.0.2.202507201434]
 > Start DBeaver SQL Editors - AI integration [org.jkiss.dbeaver.ui.ai 1.0.61.202507201434]
 > Start Core Compare Support [org.eclipse.compare.core 3.8.700.v20250120-0641]
 > Start Console [org.eclipse.ui.console 3.14.300.v20250509-1251]
 > Start Debug Core [org.eclipse.debug.core 3.23.0.v20250509-1924]
-2025-08-19 16:28:40.928 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 4)
-2025-08-19 16:28:40.929 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:36:50.946 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 2)
+2025-08-19 17:36:50.947 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
 > Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.137.202507201434]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.135.202507201434]
 > Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.137.202507201434]
+2025-08-19 17:36:52.837 - Delete empty SQL script '\General\Scripts\Script.sql'
+2025-08-19 17:36:52.839 - Execution context closed (inventory_stockout, 2)
+2025-08-19 17:37:00.935 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 3)
+2025-08-19 17:37:00.935 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:37:02.489 - Delete empty SQL script '\General\Scripts\Script.sql'
+2025-08-19 17:37:02.500 - Execution context closed (inventory_stockout, 3)
+2025-08-19 17:37:30.198 - 	Invalidate context 'Main <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (BEFORE_INVALIDATE)
+2025-08-19 17:37:30.211 - Execution context closed (inventory_stockout, 0)
+2025-08-19 17:37:30.211 - 	Invalidate context 'Metadata <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (BEFORE_INVALIDATE)
+2025-08-19 17:37:30.223 - Execution context closed (inventory_stockout, 1)
+2025-08-19 17:37:30.223 - 	Invalidate context 'Main <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (INVALIDATE)
+2025-08-19 17:37:30.223 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
+2025-08-19 17:37:30.298 - 	Invalidate context 'Metadata <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (INVALIDATE)
+2025-08-19 17:37:30.299 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Metadata <inventory_stockout>
+2025-08-19 17:37:30.377 - 	Invalidate context 'Main <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (AFTER_INVALIDATE)
+2025-08-19 17:37:30.377 - 	Invalidate context 'Metadata <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (AFTER_INVALIDATE)
+2025-08-19 17:37:30.392 - Connections reopened: 2 (of 2)
+2025-08-19 17:37:31.180 - 	Invalidate context 'Main <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (BEFORE_INVALIDATE)
+2025-08-19 17:37:31.192 - Execution context closed (inventory_stockout, 0)
+2025-08-19 17:37:31.192 - 	Invalidate context 'Metadata <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (BEFORE_INVALIDATE)
+2025-08-19 17:37:31.204 - Execution context closed (inventory_stockout, 1)
+2025-08-19 17:37:31.204 - 	Invalidate context 'Main <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (INVALIDATE)
+2025-08-19 17:37:31.204 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Main <inventory_stockout>
+2025-08-19 17:37:31.287 - 	Invalidate context 'Metadata <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (INVALIDATE)
+2025-08-19 17:37:31.287 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for Metadata <inventory_stockout>
+2025-08-19 17:37:31.368 - 	Invalidate context 'Main <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (AFTER_INVALIDATE)
+2025-08-19 17:37:31.368 - 	Invalidate context 'Metadata <inventory_stockout>' for postgres-jdbc-198c1027405-59035f8438ba5191 (AFTER_INVALIDATE)
+2025-08-19 17:37:31.369 - Connections reopened: 2 (of 2)
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.54.202507201434]
+2025-08-19 17:40:05.068 - Open external file(s) [[C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\schema.sql]]
+2025-08-19 17:40:11.060 - No active connection
+2025-08-19 17:40:31.897 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 4)
+2025-08-19 17:40:31.898 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:40:57.211 - Execution context closed (inventory_stockout, 4)
+2025-08-19 17:41:03.644 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 5)
+2025-08-19 17:41:03.645 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:41:06.150 - Execution context closed (inventory_stockout, 5)
+2025-08-19 17:41:24.963 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 6)
+2025-08-19 17:41:24.964 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:41:38.121 - File already exists on disk: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\stockout_risk.sql.
+2025-08-19 17:41:58.132 - Resource '/General/Scripts/stockout_risk.sql' already exists.
+java.lang.Exception: Resource '/General/Scripts/stockout_risk.sql' already exists.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:343)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkMoveRequirements(Resource.java:419)
+	at org.eclipse.core.internal.resources.Resource.assertMoveRequirements(Resource.java:229)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1531)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1515)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerRenameFile.renameFile(SQLEditorHandlerRenameFile.java:84)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerRenameFile.execute(SQLEditorHandlerRenameFile.java:58)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:299)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:233)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:320)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:581)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:662)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:451)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:104)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1340)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1213)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1238)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1223)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1265)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1261)
+	at org.eclipse.swt.widgets.Widget.wmKeyDown(Widget.java:1994)
+	at org.eclipse.swt.widgets.Control.WM_KEYDOWN(Control.java:5213)
+	at org.eclipse.swt.widgets.Canvas.WM_KEYDOWN(Canvas.java:402)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4811)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:336)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5106)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3722)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:324)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+2025-08-19 17:42:06.586 - Execution context closed (inventory_stockout, 6)
+2025-08-19 17:42:20.872 - 
+org.eclipse.core.internal.resources.ResourceException(/General/Scripts/Script.sql)[368]: org.eclipse.core.runtime.CoreException: File not found: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\Script.sql.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:32)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.handleReadIOException(LocalFile.java:542)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:523)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:882)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:352)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:342)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getScriptDescription(SQLEditorUtils.java:311)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getResourceDescription(SQLEditorUtils.java:265)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils$ResourceInfo.getDescription(SQLEditorUtils.java:393)
+	at org.jkiss.dbeaver.ui.controls.ScriptSelectorPanel.lambda$3(ScriptSelectorPanel.java:344)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4111)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3727)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.jkiss.dbeaver.ui.dialogs.AbstractPopupPanel.open(AbstractPopupPanel.java:92)
+	at org.jkiss.dbeaver.ui.controls.ScriptSelectorPanel.showTree(ScriptSelectorPanel.java:400)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:159)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:144)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.execute(SQLEditorHandlerOpenEditor.java:118)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:299)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:233)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:444)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:475)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:497)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4338)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1214)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4136)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3724)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:324)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+Caused by: java.io.FileNotFoundException: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\Script.sql (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:521)
+	... 57 more
+2025-08-19 17:42:24.801 - Delete empty SQL script '\General\Scripts\Script.sql'
+2025-08-19 17:42:41.907 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 7)
+2025-08-19 17:42:41.908 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:43:12.090 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 8)
+2025-08-19 17:43:12.090 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:43:29.008 - File already exists on disk: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\Schema.sql.
+2025-08-19 17:43:37.536 - Execution context closed (inventory_stockout, 8)
+2025-08-19 17:43:39.043 - Execution context closed (inventory_stockout, 7)
+2025-08-19 17:43:58.830 - 
+org.eclipse.core.internal.resources.ResourceException(/General/Scripts/Script.sql)[368]: org.eclipse.core.runtime.CoreException: File not found: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\Script.sql.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:32)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.handleReadIOException(LocalFile.java:542)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:523)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:882)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:352)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:342)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getScriptDescription(SQLEditorUtils.java:311)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getResourceDescription(SQLEditorUtils.java:265)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils$ResourceInfo.getDescription(SQLEditorUtils.java:393)
+	at org.jkiss.dbeaver.ui.controls.ScriptSelectorPanel.lambda$3(ScriptSelectorPanel.java:344)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4111)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3727)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.jkiss.dbeaver.ui.dialogs.AbstractPopupPanel.open(AbstractPopupPanel.java:92)
+	at org.jkiss.dbeaver.ui.controls.ScriptSelectorPanel.showTree(ScriptSelectorPanel.java:400)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:159)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:144)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.execute(SQLEditorHandlerOpenEditor.java:118)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:299)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:233)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:444)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:475)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:497)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4338)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1214)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4136)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3724)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:324)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+Caused by: java.io.FileNotFoundException: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\Script.sql (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:521)
+	... 57 more
+2025-08-19 17:44:01.342 - Execution context opened (inventory_stockout; SQLEditor <stockoutRisk.sql>; 9)
+2025-08-19 17:44:01.343 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <stockoutRisk.sql>
+2025-08-19 17:44:13.013 - SQL Error [42601]: ERROR: syntax error at or near "avg"
+  Position: 1461
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "avg"
+  Position: 1461
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4536)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5161)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "avg"
+  Position: 1461
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.143.202507201434]
+2025-08-19 17:48:21.077 - 
+org.eclipse.core.internal.resources.ResourceException(/General/Scripts/stockout_risk.sql)[368]: org.eclipse.core.runtime.CoreException: File not found: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\stockout_risk.sql.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:32)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.handleReadIOException(LocalFile.java:542)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:523)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:882)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:352)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:342)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getScriptDescription(SQLEditorUtils.java:311)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils.getResourceDescription(SQLEditorUtils.java:265)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorUtils$ResourceInfo.getDescription(SQLEditorUtils.java:393)
+	at org.jkiss.dbeaver.ui.controls.ScriptSelectorPanel.lambda$3(ScriptSelectorPanel.java:344)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4111)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3727)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.jkiss.dbeaver.ui.dialogs.AbstractPopupPanel.open(AbstractPopupPanel.java:92)
+	at org.jkiss.dbeaver.ui.controls.ScriptSelectorPanel.showTree(ScriptSelectorPanel.java:400)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openEditor(SQLEditorHandlerOpenEditor.java:159)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openRecentScript(SQLEditorHandlerOpenEditor.java:247)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.openRecentEditor(SQLEditorHandlerOpenEditor.java:195)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerOpenEditor.execute(SQLEditorHandlerOpenEditor.java:128)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:299)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:233)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:444)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:475)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:497)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4338)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1214)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4136)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3724)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:324)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+Caused by: java.io.FileNotFoundException: C:\Users\athar\MyCodes\Private\GitHub\Inventory-Stockout-Risk-Prediction\sql\General\Scripts\stockout_risk.sql (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:521)
+	... 58 more
+2025-08-19 17:48:29.331 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 10)
+2025-08-19 17:48:29.332 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:49:48.403 - Execution context closed (inventory_stockout, 10)
+2025-08-19 17:50:32.244 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 11)
+2025-08-19 17:50:32.244 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 17:52:21.522 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:21.522 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:21.523 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:21.523 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:21.523 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:21.523 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:21.523 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:21.523 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.343 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.343 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.343 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.343 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.343 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.344 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.344 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:25.344 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.598 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.599 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.599 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.599 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.599 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.599 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.600 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:47.600 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.533 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.533 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.534 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.534 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.534 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.534 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.534 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:48.534 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.053 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.557 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.558 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.558 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.558 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.558 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.558 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.558 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:49.559 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.039 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.040 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.040 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.040 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.040 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.040 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.040 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:50.041 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.864 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.864 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.864 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.864 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.864 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.864 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.865 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:52:52.865 - Table 'inventory_stockout.public.v_stockout_risk' not found in metadata catalog
+2025-08-19 17:59:14.365 - Execution context closed (inventory_stockout, 9)
+2025-08-19 17:59:16.581 - Execution context closed (inventory_stockout, 11)
+2025-08-19 17:59:22.235 - Execution context opened (inventory_stockout; SQLEditor <Script.sql>; 12)
+2025-08-19 17:59:22.236 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <Script.sql>
+2025-08-19 18:00:13.117 - Execution context closed (inventory_stockout, 12)
+2025-08-19 18:00:18.211 - Execution context opened (inventory_stockout; SQLEditor <stockoutRisk.sql>; 13)
+2025-08-19 18:00:18.213 - Initiate connection to PostgreSQL database [inventory_stockout@localhost] for SQLEditor <stockoutRisk.sql>
+2025-08-19 18:00:37.184 - Object 'v_stockout_risk' not found in struct cache (TableCache)
+2025-08-19 18:00:37.185 - Object 'v_stockout_risk' not found in struct cache (TableCache)
+2025-08-19 18:00:37.185 - Object 'v_stockout_risk' not found in struct cache (TableCache)
+2025-08-19 18:00:37.186 - Object 'v_stockout_risk' not found in struct cache (TableCache)
+2025-08-19 18:00:37.186 - Object 'v_stockout_risk' not found in struct cache (TableCache)
+2025-08-19 18:00:37.186 - Object 'v_stockout_risk' not found in struct cache (TableCache)
+2025-08-19 18:00:37.186 - Object 'v_stockout_risk' not found in struct cache (TableCache)
+2025-08-19 18:00:37.186 - Object 'v_stockout_risk' not found in struct cache (TableCache)
